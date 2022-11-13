@@ -1,4 +1,4 @@
-package gitPractis;
+package gitPractice;
 
 public class FirstClassGit {
 
